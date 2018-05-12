@@ -1,0 +1,42 @@
+_repo: Mlle.-FouchetteA-Novel-of-French-Life_30041
+_version: 0.1.0
+alternative_title: Mademoiselle Fouchette
+contributor:
+  illustrators:
+  - agent_name: Day, Francis
+    birthdate: 1863
+    gutenberg_agent_id: '6797'
+    url: http://www.gutenberg.org/2009/agents/6797
+  - agent_name: Kennedy, E. Benson
+    gutenberg_agent_id: '34330'
+    url: http://www.gutenberg.org/2009/agents/34330
+  - agent_name: Richardson, W. H.
+    gutenberg_agent_id: '34329'
+    url: http://www.gutenberg.org/2009/agents/34329
+covers:
+- cover_type: archival
+  image_path: 30041-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murray, Charles Theodore
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '34328'
+    url: http://www.gutenberg.org/2009/agents/34328
+description: ''
+gutenberg_issued: '2009-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30041'
+  lccn: '02002771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'France -- Fiction'
+title: 'Mlle. Fouchette
+
+  A Novel of French Life'
+url: http://www.gutenberg.org/ebooks/30041
