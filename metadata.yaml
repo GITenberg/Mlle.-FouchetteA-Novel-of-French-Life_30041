@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '34328'
     url: http://www.gutenberg.org/2009/agents/34328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30041#Mlle.-FouchetteA-Novel-of-French-Life
 gutenberg_issued: '2009-09-20'
 gutenberg_type: Text
 identifiers:
